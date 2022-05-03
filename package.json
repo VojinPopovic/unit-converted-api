@@ -1,0 +1,23 @@
+{
+  "name": "unit-converter-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VojinPopovic/unit-converted-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VojinPopovic/unit-converted-api/issues"
+  },
+  "homepage": "https://github.com/VojinPopovic/unit-converted-api#readme",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
