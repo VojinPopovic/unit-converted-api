@@ -174,15 +174,15 @@
       "ratioacre": 1.594225079e-7
     },
     "Acre": {
-      "ratiosquaremeter": 39.3701,
-      "ratiosquarekilometer": 0.001,
-      "ratiosquarecentimeter": 100,
-      "ratiosquaremillimeter": 1000,
-      "ratiohectare": 0.000621371,
-      "ratiosquaremile": 1.09361,
-      "ratiosquareyard": 3.28084,
-      "ratiosquarefoot": 39.3701,
-      "ratiosquareinch": 39.3701
+      "ratiosquaremeter": 4046.8564224,
+      "ratiosquarekilometer": 0.0040468564,
+      "ratiosquarecentimeter": 40468564.224,
+      "ratiosquaremillimeter": 4046856422.4,
+      "ratiohectare": 0.4046856422,
+      "ratiosquaremile": 0.0015624989,
+      "ratiosquareyard": 4840,
+      "ratiosquarefoot": 43560,
+      "ratiosquareinch": 6272640
     }
   }
 }
