@@ -75,39 +75,106 @@
   },
   "Area": {
     "Square Meter": {
-      "ratiosquarekilometer": 0.001,
-      "ratiosquarecentimeter": 100,
-      "ratiosquaremillimeter": 1000,
-      "ratiohectare": 0.000621371,
-      "ratiosquaremile": 1.09361,
-      "ratiosquareyard": 3.28084,
-      "ratiosquarefoot": 39.3701,
-      "ratiosquareinch": 39.3701,
-      "ratioacre": 39.3701
+      "ratiosquarekilometer": 0.000001,
+      "ratiosquarecentimeter": 10000,
+      "ratiosquaremillimeter": 1000000,
+      "ratiohectare": 0.0001,
+      "ratiosquaremile": 3.861018768e-7,
+      "ratiosquareyard": 1.1959900463,
+      "ratiosquarefoot": 10.763910417,
+      "ratiosquareinch": 1550.0031,
+      "ratioacre": 0.0002471054
     },
     "Square Kilometer": {
-      "ratiosquarekilometer": 0.001,
-      "ratiosquarecentimeter": 100,
-      "ratiosquaremillimeter": 1000,
-      "ratiohectare": 0.000621371,
-      "ratiosquaremile": 1.09361,
-      "ratiosquareyard": 3.28084,
-      "ratiosquarefoot": 39.3701,
-      "ratiosquareinch": 39.3701,
-      "ratioacre": 39.3701
+      "ratiosquaremeter": 1000000,
+      "ratiosquarecentimeter": 10000000000,
+      "ratiosquaremillimeter": 1000000000000,
+      "ratiohectare": 100,
+      "ratiosquaremile": 0.3861018768,
+      "ratiosquareyard": 1195990.0463,
+      "ratiosquarefoot": 10763910.417,
+      "ratiosquareinch": 1550003100,
+      "ratioacre": 247.10538147
     },
     "Square Centimeter": {
-      "ratiosquarekilometer": 0.001,
-      "ratiosquarecentimeter": 100,
-      "ratiosquaremillimeter": 1000,
-      "ratiohectare": 0.000621371,
-      "ratiosquaremile": 1.09361,
-      "ratiosquareyard": 3.28084,
-      "ratiosquarefoot": 39.3701,
-      "ratiosquareinch": 39.3701,
-      "ratioacre": 39.3701
+      "ratiosquaremeter": 0.0001,
+      "ratiosquarekilometer": 1e-10,
+      "ratiosquaremillimeter": 100,
+      "ratiohectare": 1e-8,
+      "ratiosquaremile": 3.861018768e-11,
+      "ratiosquareyard": 0.000119599,
+      "ratiosquarefoot": 0.001076391,
+      "ratiosquareinch": 0.15500031,
+      "ratioacre": 2.471053814e-8
     },
     "Square Millimeter": {
+      "ratiosquaremeter": 0.000001,
+      "ratiosquarekilometer": 1e-12,
+      "ratiosquarecentimeter": 0.01,
+      "ratiohectare": 9.999999999e-11,
+      "ratiosquaremile": 3.861018768e-13,
+      "ratiosquareyard": 0.000001196,
+      "ratiosquarefoot": 0.0000107639,
+      "ratiosquareinch": 0.0015500031,
+      "ratioacre": 2.471053814e-10
+    },
+    "Hectare": {
+      "ratiosquaremeter": 10000,
+      "ratiosquarekilometer": 0.01,
+      "ratiosquarecentimeter": 100000000,
+      "ratiosquaremillimeter": 10000000000,
+      "ratiosquaremile": 0.0038610188,
+      "ratiosquareyard": 11959.900463,
+      "ratiosquarefoot": 107639.10417,
+      "ratiosquareinch": 15500031,
+      "ratioacre": 2.4710538147
+    },
+    "Square Mile": {
+      "ratiosquaremeter": 2589990,
+      "ratiosquarekilometer": 2.58999,
+      "ratiosquarecentimeter": 25899900000,
+      "ratiosquaremillimeter": 2589990000000,
+      "ratiohectare": 258.999,
+      "ratiosquareyard": 3097602.26,
+      "ratiosquarefoot": 27878420.34,
+      "ratiosquareinch": 4014492529,
+      "ratioacre": 640.00046695
+    },
+    "Square Yard": {
+      "ratiosquaremeter": 0.83612736,
+      "ratiosquarekilometer": 8.3612736e-7,
+      "ratiosquarecentimeter": 8361.2736,
+      "ratiosquaremillimeter": 836127.36,
+      "ratiohectare": 0.0000836127,
+      "ratiosquaremile": 3.228303429e-7,
+      "ratiosquarefoot": 9,
+      "ratiosquareinch": 1296,
+      "ratioacre": 0.0002066116
+    },
+    "Square Foot": {
+      "ratiosquaremeter": 0.09290304,
+      "ratiosquarekilometer": 9.290304e-8,
+      "ratiosquarecentimeter": 929.0304,
+      "ratiosquaremillimeter": 92903.04,
+      "ratiohectare": 0.0000092903,
+      "ratiosquaremile": 3.58700381e-8,
+      "ratiosquareyard": 0.1111111111,
+      "ratiosquareinch": 144,
+      "ratioacre": 0.0000229568
+    },
+    "Square Inch": {
+      "ratiosquaremeter": 0.00064516,
+      "ratiosquarekilometer": 6.4516e-10,
+      "ratiosquarecentimeter": 6.4516,
+      "ratiosquaremillimeter": 645.16,
+      "ratiohectare": 6.4516e-8,
+      "ratiosquaremile": 2.490974868e-10,
+      "ratiosquareyard": 0.0007716049,
+      "ratiosquarefoot": 0.0069444444,
+      "ratioacre": 1.594225079e-7
+    },
+    "Acre": {
+      "ratiosquaremeter": 39.3701,
       "ratiosquarekilometer": 0.001,
       "ratiosquarecentimeter": 100,
       "ratiosquaremillimeter": 1000,
@@ -115,8 +182,7 @@
       "ratiosquaremile": 1.09361,
       "ratiosquareyard": 3.28084,
       "ratiosquarefoot": 39.3701,
-      "ratiosquareinch": 39.3701,
-      "ratioacre": 39.3701
+      "ratiosquareinch": 39.3701
     }
   }
 }
