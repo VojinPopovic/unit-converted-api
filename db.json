@@ -184,5 +184,111 @@
       "ratiosquarefoot": 43560,
       "ratiosquareinch": 6272640
     }
+  },
+  "Temperature": {
+    "Celsius": {
+      "ratiokelvin": 274.15,
+      "ratiofahrenheit": 33.8
+    },
+    "Kelvin": {
+      "ratiocelsius": -272.15,
+      "ratiofahrenheit": -457.87
+    },
+    "Fahrenheit": {
+      "ratiocelsius": -17.222222222,
+      "ratiokelvin": 255.92777778
+    }
+  },
+  "Weight": {
+    "Kilogram": {
+      "ratiogram": 1000,
+      "ratiomilligram": 1000000,
+      "ratiometricton": 0.001,
+      "ratiolongton": 0.0009842073,
+      "ratioshortton": 0.0011023122,
+      "ratiopound": 2.2046244202,
+      "ratioounce": 35.273990723,
+      "ratiocarrat": 5000
+    },
+    "Gram": {
+      "ratiokilogram": 0.001,
+      "ratiomilligram": 1000,
+      "ratiometricton": 0.000001,
+      "ratiolongton": 9.842073304e-7,
+      "ratioshortton": 0.0000011023,
+      "ratiopound": 0.0022046244,
+      "ratioounce": 0.0352739907,
+      "ratiocarrat": 5
+    },
+    "Milligram": {
+      "ratiokilogram": 0.000001,
+      "ratiogram": 0.001,
+      "ratiometricton": 9.999999999e-10,
+      "ratiolongton": 9.842073304e-10,
+      "ratioshortton": 1.10231221e-9,
+      "ratiopound": 0.0000022046,
+      "ratioounce": 0.000035274,
+      "ratiocarrat": 0.005
+    },
+    "Metric Ton": {
+      "ratiokilogram": 1000,
+      "ratiogram": 1000000,
+      "ratiomilligram": 1000000000,
+      "ratiolongton": 0.9842073304,
+      "ratioshortton": 1.1023122101,
+      "ratiopound": 2204.6244202,
+      "ratioounce": 35273.990723,
+      "ratiocarrat": 5000000
+    },
+    "Long Ton": {
+      "ratiokilogram": 1016.04608,
+      "ratiogram": 1016046.08,
+      "ratiomilligram": 1016046080,
+      "ratiometricton": 1.01604608,
+      "ratioshortton": 1.12,
+      "ratiopound": 2240,
+      "ratioounce": 35840,
+      "ratiocarrat": 5080230.4
+    },
+    "Short Ton": {
+      "ratiokilogram": 907.184,
+      "ratiogram": 907184,
+      "ratiomilligram": 907184000,
+      "ratiometricton": 0.907184,
+      "ratiolongton": 0.8928571429,
+      "ratiopound": 2000,
+      "ratioounce": 32000,
+      "ratiocarrat": 4535920
+    },
+    "Pound": {
+      "ratiokilogram": 0.453592,
+      "ratiogram": 453.592,
+      "ratiomilligram": 453592,
+      "ratiometricton": 0.000453592,
+      "ratiolongton": 0.0004464286,
+      "ratioshortton": 0.0005,
+      "ratioounce": 16,
+      "ratiocarrat": 2267.96
+    },
+    "Ounce": {
+      "ratiokilogram": 0.0283495,
+      "ratiogram": 28.3495,
+      "ratiomilligram": 28349.5,
+      "ratiometricton": 0.0000283495,
+      "ratiolongton": 0.0000279018,
+      "ratioshortton": 0.00003125,
+      "ratiopound": 0.0625,
+      "ratiocarrat": 141.7475
+    },
+    "Carrat": {
+      "ratiokilogram": 0.0002,
+      "ratiogram": 0.2,
+      "ratiomilligram": 200,
+      "ratiometricton": 2e-7,
+      "ratiolongton": 1.96841466E-7,
+      "ratioshortton": 2.20462442E-7,
+      "ratiopound": 0.0004409249,
+      "ratioounce": 0.0070547981
+    }
   }
 }
